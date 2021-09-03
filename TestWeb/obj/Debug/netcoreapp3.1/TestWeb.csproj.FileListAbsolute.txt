@@ -46,7 +46,6 @@ E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\bin\Debug\netcoreapp3.1\TestWeb.
 E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\bin\Debug\netcoreapp3.1\TestWeb.pdb
 E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\bin\Debug\netcoreapp3.1\TestWeb.Views.dll
 E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\bin\Debug\netcoreapp3.1\TestWeb.Views.pdb
-E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\obj\Debug\netcoreapp3.1\TestWeb.csproj.AssemblyReference.cache
 E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\obj\Debug\netcoreapp3.1\TestWeb.GeneratedMSBuildEditorConfig.editorconfig
 E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\obj\Debug\netcoreapp3.1\TestWeb.AssemblyInfoInputs.cache
 E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\obj\Debug\netcoreapp3.1\TestWeb.AssemblyInfo.cs
@@ -74,3 +73,4 @@ E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\obj\Debug\netcoreapp3.1\TestWeb.
 E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\obj\Debug\netcoreapp3.1\TestWeb.pdb
 E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\obj\Debug\netcoreapp3.1\TestWeb.genruntimeconfig.cache
 E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\obj\Debug\netcoreapp3.1\TestWeb.csproj.CopyComplete
+E:\Project\Test\DotNet Core\.NetCoreWeb\TestWeb\bin\Debug\netcoreapp3.1\Dockerfile
