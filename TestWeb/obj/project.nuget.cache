@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IaMhE1+xxjXGMNkGOyaPMv0QTR6yjL6s5AXVQQgA0BlbtU6lzNAS5b4SrXFb6xB8uu3sOGcfhi5aECDWVbzHtw==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\Test\\DotNet Core\\.NetCoreWeb\\TestWeb\\TestWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BLT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
